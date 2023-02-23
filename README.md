@@ -12,7 +12,7 @@ sequence of N length-𝑁𝑥 state vectors. Your function should be general, al
   
 ## About
 - kalman_run has the code file which has comments for reference. The inputs of the filter is taken by example 9.10 from the textbook, Detection, Estimation and Modulation Theory -  Van Trees.
-
+- The document that starts with ECE751 has the output of the filter and is a detailed explaination of the project.
 
 ## Author
 Akshay Vijay Khanna
