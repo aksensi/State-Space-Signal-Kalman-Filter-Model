@@ -1,4 +1,4 @@
-# Discrete-time-Time-invariant-Kalman-signal-model
+# State-Space-Signal-Kalman-Filter-model
 
 ## Repository Type: Academic Project
 
