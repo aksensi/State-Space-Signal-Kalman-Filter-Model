@@ -5,8 +5,11 @@
 # Project Description
 NCSU ECE 751 - Detection, Estimation and Filtering Theory - Software Project 1
 - Instructor: Prof. G. Bottomley
-  -  Implement the discrete-time, time-invariant Kalman signal model in a MATLAB function. The function should produce both a sequence of N length-𝑁𝑟 measurements and a 
-sequence of N length-𝑁𝑥 state vectors. Your function should be general, allowing for arbitrary F, G and C matrices as well as state vector initial conditions. You may assume that both the plant noise and measurement noise vectors consist of uncorrelated random variables, though they may have different variances. Thus, the  corresponding covariance matrices are diagonal with possibly different diagonal elements.
+  -  In MATLAB, a State Space Signal Model for a dynamic system having a straight-line trajectory with constant velocity to produce real values and measurements with noise input to the filter.
+  - Obtain Kalman gain that decides the measure of importance that should be given to either the measurement state or preceded state.
+  - Obtain Process Covariance matrix that represents the error in the estimate or process through a matrix of position or velocity. 
+  - Compare the theoretical MSE and Instantaneous MSE where theoretical is the diagonal matrix of the Process Covariance matrix, position and velocity respectively.
+
   
 
   
